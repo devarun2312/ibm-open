@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit-nature
+qiskit-algorithms
+pyscf
+numpy
+matplotlib
